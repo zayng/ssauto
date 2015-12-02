@@ -1,0 +1,19 @@
+cd /d C:\workspace\FossAutoTest\Script\Fcase003
+Fcase003_Scase001.py
+Fcase003_Scase002.py
+Fcase003_Scase003.py
+Fcase003_Scase004.py
+Fcase003_Scase005.py
+Fcase003_Scase006.py
+Fcase003_Scase007.py
+Fcase003_Scase008.py
+Fcase003_Scase009.py
+Fcase003_Scase010.py
+Fcase003_Scase011.py
+Fcase003_Scase012.py
+Fcase003_Scase013.py
+Fcase003_Scase014.py
+Fcase003_Scase015.py
+Fcase003_Scase016.py
+Fcase003_Scase017.py
+pause
