@@ -38,6 +38,6 @@ from Deppon.Web.Business.SignManage.AirFarOffSign import *
 from Deppon.Web.Business.OrderTaskManage.DealOrder import *
 from Deppon.Web.Business.DispatchManage.Shifts.SuggestToWork import *
 from Deppon.Web.Business.DispatchManage.DispatchPlatform import *
-from xlutils.copyd import copyd
+#from xlutils.copyd import copyd
 from xlrd import open_workbook
 
